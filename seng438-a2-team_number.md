@@ -5,9 +5,10 @@
 | Group \#:      |     |
 | -------------- | --- |
 | Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
+| Tanish Datta               |     |
+| Arushi Gupta               |     |
+| Rian Opperman               |     |
+| Seniru Ruwanpura               |     |
 
 # 1 Introduction
 
